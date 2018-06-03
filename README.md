@@ -11,6 +11,7 @@ See the Wiki page *Object Hierarchy*
 ## Income / Expense Data Structure
 
 ## Features to Add
+- Move the pdf to the wiki once I have a Linux computer
 - Visualizing Net Worth ( Assets - Liabilities ) through a Line Chart
 - Comparing expenditures by month through a pie chart
 - Video tutorial on how to use
