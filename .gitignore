@@ -1,0 +1,2 @@
+# Do not save the saved income / expense data remotely
+*.pkl
