@@ -6,9 +6,10 @@ This repository serves as a tool to track income and expenditures. It includes v
 TODO Video on usage
 
 ## Object Hierarchy
-See the Wiki page *Object Hierarchy*
+See the Wiki page *Income & Expense Hierarchy*
 
 ## Income / Expense Data Structure
+See the Wiki page *Income & Expense Data Structure*
 
 ## ToDo's in Order
 - Make Block Diagram of Data Expense and Income Data Structure
@@ -17,3 +18,4 @@ See the Wiki page *Object Hierarchy*
 - Visualize Net Worth ( Assets - Liabilities ) through a Line Chart
 - Comparing expenditures by month through a pie chart
 - Video tutorial on how to use
+- Add a more comprehensive main page to wiki's "Home"
